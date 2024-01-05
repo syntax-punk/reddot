@@ -3,11 +3,26 @@
   "displayName": "reddot",
   "description": "Red theme dark workplace",
   "version": "0.0.1",
+  "publisher": "syntax-punk",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syntax-punk/reddot"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
+  ],
+  "icon": "rddt.png",
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Red Theme",
+    "Red Dot"
   ],
   "contributes": {
     "themes": [
