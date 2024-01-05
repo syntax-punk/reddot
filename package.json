@@ -2,7 +2,7 @@
   "name": "reddot",
   "displayName": "reddot",
   "description": "Red theme dark workplace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "syntax-punk",
   "scripts": {
     "publish": "vsce publish"
