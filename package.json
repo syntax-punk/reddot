@@ -12,7 +12,7 @@
     "url": "https://github.com/syntax-punk/reddot"
   },
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.17.0"
   },
   "categories": [
     "Themes"
@@ -32,5 +32,6 @@
         "path": "./themes/Red Dot-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
