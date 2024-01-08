@@ -9,10 +9,6 @@ Ridiculously simple VS Code theme that provides uses only black and variations o
 comfortable coding experiece. By avoiding the use of other colors, the theme is very easy on the eyes,
 especially when coding for long periods of time in dark enviroments.
 
-## Installation
-
-Instructions on how to install the project.
-
 ## Usage
 
  - Navigate to the VS Code extensions and search for `Red Dot`. 
